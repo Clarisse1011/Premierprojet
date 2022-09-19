@@ -1,3 +1,5 @@
+
+
 # Premier Projet
 
 Première projet pédago pour apprendre git et github
@@ -13,5 +15,6 @@ En France à Caen
 # Où me contacter ?
 
 Mon linkedin : 
-Mes réseaux sociaux :
+
+Mes réseaux sociaux : Instagram & Twitter
 
